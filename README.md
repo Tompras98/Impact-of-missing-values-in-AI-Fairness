@@ -10,4 +10,4 @@ Finally, we apply machine learning models to predict the missing values and see 
 4 different imputation methods of missing values for each dataset (Column Deletion, Row Deletion, Mean Mode, Imputation with Prediction).
 SPD metric (statistical Parity Difference) used for calculating the Fairness of the model.
 
-For more information about this analysis look for the pdf of the Thesis.
+For more information about this analysis look for the Thesis.pdf.
